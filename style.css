@@ -35,7 +35,6 @@ height: 60px;
  width: 648px;
 height: 30px;
 margin-left: 121px;
-
 }
 .menu{
 font-family: Avenir;
@@ -48,6 +47,10 @@ padding-left: 30px;
 text-decoration: none;
 }
 
+.menu:hover {
+  color:#9C69E2;
+}
+
 
 .nav-button{
 padding-left:29px ;
@@ -58,7 +61,6 @@ font-size: 16px;
 line-height: 160%;
 display: flex;
 align-items: center;
-letter-spacing: 0.005em;s
 color: #212353;
 border: none;
 width: 210px;
@@ -66,6 +68,11 @@ height: 60px;
 background: #FFFFFF;
 box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
 border-radius: 50px;
+outline: none;
+}
+
+.nav-button:hover{
+  color: #F063B8;
 }
 
 
@@ -104,6 +111,7 @@ color: #4B5D68;
 }
 
 .bot-button{
+  outline: none;
 margin-top: 50px;
 font-family: Avenir;
 font-style: normal;
@@ -118,9 +126,11 @@ width: 170px;
 height: 60px;
 background: #9C69E2;
 border-radius: 50px
-
 }
 
+.bot-button:hover{
+  background: #F063B8;
+}
 
 .pictures{
 height: 468px;
@@ -411,7 +421,7 @@ height: 1px;
   opacity: 0.2; 
 }
 .footer-header{
-  margin-top: 100px;
+  margin-top: 120px;
   max-width: 1600px;
   height: 200px;
   margin-left: 15%;
@@ -428,7 +438,6 @@ height: 1px;
   width: 410px;
   height: 60px;
  display: flex;
- margin-left: 306px;
  margin-top: 34px;
 }
 .nav-footer{
@@ -440,6 +449,13 @@ top: 3771px;
 background: #F063B8;
 border-radius: 50px;
 border: none;
+color: white;
+box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
+outline: none;
+}
+.nav-footer:hover{
+  background: #9C69E2;
+  
 }
 
 
@@ -465,7 +481,7 @@ color: #4B5D68;
 }
 
 .footer{
-  margin-top: 150px;
+  margin-top: 100px;
 max-width: 1117px;
 height: 408px;
 display: grid;
@@ -535,6 +551,16 @@ color: #212353;
   color: #212353;
   list-style: none;
 }
+.footer-link > li > a{
+  text-decoration: none;
+}
+.footer-link > li > a:hover{
+  text-decoration: dotted;
+}
+
+
+
+
 
 .social-media{
 padding-top: 30px;
@@ -564,3 +590,4 @@ color: #212353;
 .messenger{
   padding-left: 90%;
 }
+
