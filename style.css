@@ -340,6 +340,11 @@ background: #9C69E2;
 border-radius: 50px;
 }
 
+.site{
+text-decoration: none;
+color: #9C69E2;
+}
+
  .header-text1{
   font-family: Helvetica;
   font-style: normal;
