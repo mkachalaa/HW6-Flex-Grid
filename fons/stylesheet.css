@@ -1,0 +1,112 @@
+@font-face {
+    font-family: 'HelveticaCyr Upright';
+    src: url('HelveticaCyr-Inclined.woff2') format('woff2'),
+        url('HelveticaCyr-Inclined.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('Avenir-Roman.woff2') format('woff2'),
+        url('Avenir-Roman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaGreek Upright';
+    src: url('HelveticaGreek-Bold.woff2') format('woff2'),
+        url('HelveticaGreek-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaGreek Upright';
+    src: url('HelveticaGreek-BdInclined.woff2') format('woff2'),
+        url('HelveticaGreek-BdInclined.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica CE';
+    src: url('HelveticaCE-Regular.woff2') format('woff2'),
+        url('HelveticaCE-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaCyr Upright';
+    src: url('HelveticaCyr-Upright.woff2') format('woff2'),
+        url('HelveticaCyr-Upright.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaCyr Upright';
+    src: url('HelveticaCyr-Bold.woff2') format('woff2'),
+        url('HelveticaCyr-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaCyr Upright';
+    src: url('HelveticaCyr-BoldInclined.woff2') format('woff2'),
+        url('HelveticaCyr-BoldInclined.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica CE';
+    src: url('HelveticaCE-Bold.woff2') format('woff2'),
+        url('HelveticaCE-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir Next W1G';
+    src: url('AvenirNextW1G-Demi.woff2') format('woff2'),
+        url('AvenirNextW1G-Demi.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir Next W1G';
+    src: url('AvenirNextW1G-Bold.woff2') format('woff2'),
+        url('AvenirNextW1G-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+	font-family: 'Avenir';
+	src: url('AvenirNextLTPro-Demi.eot');
+	src: local('☺'), url('AvenirNextLTPro-Demi.woff') format('woff'), url('AvenirNextLTPro-Demi.ttf') format('truetype'), url('AvenirNextLTPro-Demi.svg') format('svg');
+}
+
+@font-face {
+	font-family: 'Helvetica';
+	src: url('helveticaneuecyr-roman.eot');
+	src: local('☺'), url('helveticaneuecyr-roman.woff') format('woff'), url('helveticaneuecyr-roman.ttf') format('truetype'), url('helveticaneuecyr-roman.svg') format('svg');
+}
+
+
